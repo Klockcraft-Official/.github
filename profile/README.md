@@ -4,6 +4,4 @@ KlockCraft Developers
 - AR-DEV-1: Developer/Admin
 - Egnious: Developer/Admin
   
-  Real Minecraft 1.20 Being Ported To The Web Browser
-  Coming Soon!
-  Progress: 56%
+  We are porting Klockcraft Java Edition 1.20!
