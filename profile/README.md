@@ -21,6 +21,17 @@
 - Archiving your repository 🗄️ | Archiving your repository can help prevent it from a DMCA, but it is not always guaranteed it will work. 🤷‍♂️
 - Storing a copy on a drive 📀 | By storing a copy of Klockcraft on a drive (ex. your computer, USB, external hard drive) Mojang can't DMCA files on your computer 🎮
 
+## Upcoming Klockcraft Versions 💻
+
+- Klockcraft Java Edition 1.9.3 (Expected arrival time unknown ❌)
+- Klockcraft Java Edition 1.12.2 (Expected arrival time unknown ❌)
+- Klockcraft Bedrock Edition 1.16.4 (Expected arrival time unknown ❌)
+- Klockcraft Java Edition 1.16.4 (Expected arrival time unknown ❌)
+- Klockcraft Java Edition 1.20 (Expected arrival time: Feburary 19th, 2024 ⏰)
+- Klockcraft Bedrock Edition 1.19.2 (Expected arrival time unknown ❌)
+- Klockcraft Bedrock Edition 1.20.1 (Expected arrival time unknown ❌)
+
+
 ## 🔵 KLOCKCRAFT REPOSITORYS DO CONTAIN: 🔵
 
 - Assets/sounds/textures from real Minecraft versions. 🗃️🎵🎨
@@ -34,3 +45,5 @@
 - Trojan ☢️
 - Spyware ☢️
 - Free Robux 💸
+
+## Upcoming Klockcraft Versions 💻
