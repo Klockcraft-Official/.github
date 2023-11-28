@@ -1,6 +1,6 @@
 <div align='center'>
 
-## Welcome To Klockcraft! 👋
+# Welcome To Klockcraft! 👋
 
 ### Klockcraft is a software that runs Minecraft in a browser and makes Minecraft more accessible for gamers 🎮 it can be run on almost any device, school Chromebooks 💻, your grandpa's ancient computer still running Windows 95 👴, your potato PC at home 🥔, and more!
 
