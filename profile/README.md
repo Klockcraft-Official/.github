@@ -11,7 +11,7 @@
 
 ## Announcements 📣
 
-### LATEST ANNOUNCEMENT: Klockcraft Java Edition 1.20 is on pause! BtPlayzX is working on 1.9.3.
+### LATEST ANNOUNCEMENT: Klockcraft Java Edition 1.9.3 is about to be worked on! A fontpack has to be made first...
 
 ## 🟥 PROTECTING YOUR KLOCKCRAFT REPOSITORY FROM DMCA 🟥
 
