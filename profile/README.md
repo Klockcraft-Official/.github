@@ -32,6 +32,15 @@
 - Klockcraft Bedrock Edition 1.20.1 (Expected arrival time unknown ❌)
 
 
+## Available Klockcraft versions ✔️
+
+### Here are some Klockcraft versions that are avalible to play:
+- (Klockcraft Classic)[https://github.com/Klockcraft-Official/Klockcraft-Classic]
+- (Klockcraft 0.30)[https://github.com/Klockcraft-Official/Klockcraft-Java-Edition-0.30]
+
+### More Klockcraft versions coming soon! 👍
+
+
 ## 🔵 KLOCKCRAFT REPOSITORYS DO CONTAIN: 🔵
 
 - Assets/sounds/textures from real Minecraft versions. 🗃️🎵🎨
