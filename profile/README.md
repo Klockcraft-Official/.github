@@ -23,13 +23,13 @@
 
 ## Upcoming Klockcraft Versions 💻
 
-- Klockcraft Java Edition 1.9.3 (Expected arrival time unknown ❌)
-- Klockcraft Java Edition 1.12.2 (Expected arrival time unknown ❌)
-- Klockcraft Bedrock Edition 1.16.4 (Expected arrival time unknown ❌)
-- Klockcraft Java Edition 1.16.4 (Expected arrival time unknown ❌)
+- Klockcraft Java Edition 1.9.3 (Expected arrival time: December 20th, 2023 ⏰)
+- Klockcraft Java Edition 1.12.2 (Expected arrival time: January 13th, 2024 ⏰)
+- Klockcraft Bedrock Edition 1.16.4 (Expected arrival time: January 26th, 2024 ⏰)
+- Klockcraft Java Edition 1.16.4 (Expected arrival time: Feburary 3rd, 2024 ⏰)
 - Klockcraft Java Edition 1.20 (Expected arrival time: Feburary 19th, 2024 ⏰)
-- Klockcraft Bedrock Edition 1.19.2 (Expected arrival time unknown ❌)
-- Klockcraft Bedrock Edition 1.20.1 (Expected arrival time unknown ❌)
+- Klockcraft Bedrock Edition 1.19.2 (Expected arrival time: Feburary 29th, 2024 ⏰)
+- Klockcraft Bedrock Edition 1.20.1 (Expected arrival time: March 8th, 2024 ⏰)
 
 
 ## Available Klockcraft versions ✔️
