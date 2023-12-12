@@ -11,7 +11,7 @@
 
 ## Announcements 📣
 
-### LATEST ANNOUNCEMENT: Klockcraft Java Edition 1.9.3 is about to be worked on! A fontpack has to be made first...
+### LATEST ANNOUNCEMENT 📣: Klockcraft GitHub Pages are now fixed! 
 
 ## 🟥 PROTECTING YOUR KLOCKCRAFT REPOSITORY FROM DMCA 🟥
 
