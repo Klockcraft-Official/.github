@@ -11,7 +11,7 @@
 
 ## Announcements 📣
 
-### LATEST ANNOUNCEMENT 📣: Klockcraft GitHub Pages are now fixed! 
+### LATEST ANNOUNCEMENT 📣: Klockcraft is not dead yet! The owner is working on the tools to build 1.9.3 on a USB flash drive.
 
 ## 🟥 PROTECTING YOUR KLOCKCRAFT REPOSITORY FROM DMCA 🟥
 
